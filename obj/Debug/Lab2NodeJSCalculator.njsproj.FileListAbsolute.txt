@@ -1,0 +1,3 @@
+C:\Users\Jeel Patel\source\repos\Lab2NodeJSCalculator\obj\Debug\Lab2NodeJSCalculator.njsprojAssemblyReference.cache
+C:\Users\Jeel Patel\source\repos\Lab2NodeJSCalculator\obj\Debug\Lab2NodeJSCalculator.njsproj.CoreCompileInputs.cache
+C:\Users\Jeel Patel\source\repos\Lab2NodeJSCalculator\bin\Microsoft.NodejsTools.WebRole.dll
